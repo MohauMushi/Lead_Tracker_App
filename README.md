@@ -1,4 +1,5 @@
-# coc8640b4ab7ea074c56f6bdc
+
+The Lead_Traker_App is a Chrome Extension, that saves the URL of the webpage that you are currently viewing, so that later you can come and view the tab that you visited, instead of going to your browser history, to search for the tabs.
 
 Quick start:
 
